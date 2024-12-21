@@ -165,6 +165,7 @@ const Contact = () => {
               placeholder="Type your message here..."
               rows="5"
               className="w-full p-2 border rounded"
+              required
             ></textarea>
           </div>
           <div className="text-center">

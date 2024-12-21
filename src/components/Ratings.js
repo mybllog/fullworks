@@ -61,7 +61,7 @@ const Ratings = () => {
               emptyIcon={<StarIcon style={{ opacity: 0.55 }} fontSize="inherit" />}
             />
           </Box>
-         <p> All your office equipment are always available here at Manifold. We deal with
+         <p> All your office equipment are always available here at Fullworks. We deal with
          information technology to the last.</p>
         </Paper>
       </div>
@@ -85,7 +85,7 @@ const Ratings = () => {
             />
           </Box>
           <p>
-            Timely response, great customer service, and top quality IT products. Manifold is
+            Timely response, great customer service, and top quality IT products. Fullworks is
             truly the best.
           </p>
         </Paper>
