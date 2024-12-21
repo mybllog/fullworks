@@ -13,7 +13,7 @@ const Footer = () => {
     <footer className="w-full bg-white py-10 font-poppins overflow-hidden">
       <div className="container mx-auto px-4">
         {/* Main Grid */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-4">
           {/* Left Section */}
           <div className="flex flex-col space-y-6">
           <div>
@@ -62,7 +62,7 @@ const Footer = () => {
               <div className="space-y-2">
                 <div className="flex items-center space-x-1">
                   <Message className="text-pink-800" />
-                  <p className="text-base text-gray-400">reachus@manifoldcomputers.com</p>
+                  <p className="text-base text-gray-400">reachus<br/>@manifoldcomputers.com</p>
                 </div>
                 <div className="flex items-center space-x-1">
                   <Phone className="text-pink-800" />
