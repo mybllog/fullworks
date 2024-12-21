@@ -169,6 +169,7 @@ const Contact = () => {
           </div>
           <div className="text-center">
             <Button
+            type='submit'
               variant="contained"
               sx={{
     backgroundColor: '#9d174d', // Custom pink color
